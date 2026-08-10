@@ -48,6 +48,10 @@ int *x=NULL;
    //because there's no such thing as a "function object" you can hold by value in C, only functions and pointers to functions.
 
    //.bss and .data PART
+
+
+
+   
    /*
    // CPU generates virtual address
         │
